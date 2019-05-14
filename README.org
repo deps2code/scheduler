@@ -15,7 +15,7 @@ during down-time as well as maintaining a history of the callbacks that got exec
 
 * Installation
 #+BEGIN_SRC shell
-go get github.com/rakanalh/scheduler
+go get github.com/deps2code/scheduler
 #+END_SRC
 
 * How To Use
