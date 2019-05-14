@@ -1,5 +1,5 @@
 * Go Task Scheduler
-[[https://travis-ci.org/rakanalh/scheduler][https://img.shields.io/travis/rakanalh/scheduler/master.svg?style=flat-square]] [[http://codecov.io/github/rakanalh/scheduler?branch=master][http://codecov.io/github/rakanalh/scheduler/coverage.svg?branch=master]] [[https://godoc.org/github.com/rakanalh/scheduler][https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square]] [[https://github.com/rakanalh/scheduler/blob/master/LICENSE.txt][https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square]]
+[[https://travis-ci.org/deps2code/scheduler][https://img.shields.io/travis/deps2code/scheduler/master.svg?style=flat-square]] [[http://codecov.io/github/deps2code/scheduler?branch=master][http://codecov.io/github/deps2code/scheduler/coverage.svg?branch=master]] [[https://godoc.org/github.com/deps2code/scheduler][https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square]] [[https://github.com/deps2code/scheduler/blob/master/LICENSE.txt][https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square]]
 
 
 
@@ -80,7 +80,7 @@ taskID := s.RunEvery(1 * time.Minute, MyFunc, "Hello", "World")
 
 * Examples
 
-The [[https://github.com/rakanalh/scheduler/tree/master/_example/][Examples]] folder contains a bunch of code samples you can look into.
+The [[https://github.com/deps2code/scheduler/tree/master/_example/][Examples]] folder contains a bunch of code samples you can look into.
 
 * Custom Storage
 

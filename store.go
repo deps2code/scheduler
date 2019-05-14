@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rakanalh/scheduler/storage"
-	"github.com/rakanalh/scheduler/task"
+	"github.com/deps2code/scheduler/storage"
+	"github.com/deps2code/scheduler/task"
 )
 
 type storeBridge struct {

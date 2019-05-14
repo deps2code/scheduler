@@ -11,8 +11,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/rakanalh/scheduler/storage"
-	"github.com/rakanalh/scheduler/task"
+	"github.com/deps2code/scheduler/storage"
+	"github.com/deps2code/scheduler/task"
 )
 
 // Scheduler is used to schedule tasks. It holds information about those tasks

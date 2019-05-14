@@ -3,8 +3,8 @@ package scheduler
 import (
 	"testing"
 
-	"github.com/rakanalh/scheduler/storage"
-	"github.com/rakanalh/scheduler/task"
+	"github.com/deps2code/scheduler/storage"
+	"github.com/deps2code/scheduler/task"
 )
 
 func TestStore(t *testing.T) {
